@@ -27,6 +27,8 @@ public class TestClass01 {
 		System.out.println("나의 키는 " + height + "cm 입니다.");
 		
 		
+		
+		
 	}
 
 }
